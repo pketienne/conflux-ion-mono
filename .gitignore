@@ -1,0 +1,8 @@
+.next/
+.open-next/
+.sst/
+.tsbuildinfo
+build/
+next-env.d.ts
+node_modules/
+
